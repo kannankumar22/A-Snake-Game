@@ -4,15 +4,16 @@ You can play this game on a PC using keyboard arrow keys
 If you’re excited to see how this snake game looks and works, click here to play it.
 
 Initially both points were at it's fixed position.
-![Screenshot_20230223_085906](https://user-images.githubusercontent.com/109935309/220955404-2e4ffc3c-e28a-4ddf-8781-7fe94a1f334c.png)
+
+![Screenshot_20230223_092636](https://user-images.githubusercontent.com/109935309/220963570-8e1f314c-3292-4276-b491-d6744634e91e.png)
 
 
 By clicking on any one of the arrow's,the game begins.
 If the snake touches any one of the border's or bites itself then the game ends.
 
-![Screenshot_20230223_090157](https://user-images.githubusercontent.com/109935309/220955484-48448d1b-d745-4ac5-9cd7-07335f037d72.png)
+![Screenshot_20230223_092708](https://user-images.githubusercontent.com/109935309/220963609-e9f1a710-faea-43e2-aedd-9e1a35698970.png)
 
-![Screenshot_20230223_090245](https://user-images.githubusercontent.com/109935309/220955537-59611778-0c68-4605-84be-0358446f4041.png)
+![Screenshot_20230223_092917](https://user-images.githubusercontent.com/109935309/220963649-517f8a09-c516-41f9-82d6-20628077c779.png)
 
 
 Click OK! button to start over.
