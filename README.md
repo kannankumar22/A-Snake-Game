@@ -3,7 +3,7 @@ Snake is a classic game that millions of people have played. Have you ever thoug
 If you’re excited to see how this snake game looks and works,check below.
 
 
-Iniytially both were at it's fixed position...
+Initially both were at it's fixed position...
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/109935309/220826363-8d936337-49cd-4c48-9616-28d6fd6b573f.png)
 
