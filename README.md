@@ -7,7 +7,7 @@ Initially both points were at it's fixed position.
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/109935309/220828637-5b0faf44-bd20-47a1-8001-70bef761cc88.png)
 
-By clicking on any one of the arrow,s,the game begins.
+By clicking on any one of the arrow's,the game begins.
 If the snake touches any one of the border's then the game ends.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/109935309/220828823-f2c4d2c5-38f5-4903-9977-999ee000f169.png)
