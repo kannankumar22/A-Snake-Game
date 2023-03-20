@@ -2,7 +2,7 @@
 
 Snake is a classic game that millions of people have played. Have you ever thought about creating your own Snake Game? Creating a Snake Game using HTML, CSS, and vanilla JavaScript is a fun and educational project that can improve your web development skills.
 You can play this game on a PC using keyboard arrow keys 
-If you’re excited to see how this snake game looks and works, click here to play it...
+If you’re excited to see how this snake game looks and works, click here to play it.
 https://kannankumar22.github.io/A-Snake-Game/
 
 Initially both points were at it's fixed position.
