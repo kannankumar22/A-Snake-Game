@@ -19,3 +19,4 @@ If the snake touches any one of the border's or bites itself then the game ends.
 
        
 Click OK! button to start over.
+    
