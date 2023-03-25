@@ -18,5 +18,5 @@ If the snake touches any one of the border's or bites itself then the game ends.
 ![Screenshot_20230223_092917](https://user-images.githubusercontent.com/109935309/220963649-517f8a09-c516-41f9-82d6-20628077c779.png)
 
        
-Click OK! button to start over.
+Click OK! button to start over. 
     
