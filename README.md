@@ -4,7 +4,7 @@ Snake is a classic game that millions of people have played. Have you ever thoug
 You can play this game on a PC using keyboard arrow keys 
 If you’re excited to see how this snake game looks and works, click here to play it.                    
 https://kannankumar22.github.io/A-Snake-Game/
-
+ 
 Initially both points were at it's fixed position.
           
 ![Screenshot_20230223_092636](https://user-images.githubusercontent.com/109935309/220963570-8e1f314c-3292-4276-b491-d6744634e91e.png)
